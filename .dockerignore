@@ -1,0 +1,15 @@
+dist
+node_modules
+.eslintrc*
+.prettierrc*
+api.*
+data.csv*
+
+.DS_Store
+.git
+.vscode
+Dockerfile
+docker-compose*
+.dockerignore
+logs
+*.log
